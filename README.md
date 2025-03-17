@@ -13,7 +13,7 @@
 
 ## 难度：中-高
 
-# License：Apache License v2.0 with LLVM Exceptions.
+## License：Apache License v2.0 with LLVM Exceptions.
 
 ## 预期目标
 
