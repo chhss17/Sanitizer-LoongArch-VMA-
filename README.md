@@ -11,9 +11,11 @@
 ## 项目导师
 * 陆伟宁  luweining@loongson.cn
 
-## 难度：中-高
+## 难度
+中-高
 
-## License：Apache License v2.0 with LLVM Exceptions.
+## License
+Apache License v2.0 with LLVM Exceptions.
 
 ## 预期目标
 
